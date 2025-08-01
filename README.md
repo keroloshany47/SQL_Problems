@@ -12,7 +12,7 @@ I actively solve problems from:
 
 ---
 
-## 💡 Core Competencies
+##  Core Competencies
 This repo showcases a diverse range of SQL skills — including:
 - Writing clean, efficient queries
 - Solving real-world case studies
@@ -20,7 +20,7 @@ This repo showcases a diverse range of SQL skills — including:
 
 ---
 
-## 🔧 Skills Demonstrated
+##  Skills Demonstrated
 | Category          | Skills/Topics Demonstrated                                      |
 |-------------------|----------------------------------------------------------------|
 | Aggregations       | `GROUP BY`, `COUNT`, `SUM`, `AVG`, `MAX`, `MIN`                |
@@ -30,7 +30,7 @@ This repo showcases a diverse range of SQL skills — including:
 | Set Operations     | `UNION`, `INTERSECT`, `EXCEPT`                                 |
 
 ---
-## 🛠️ Technologies Used
+##  Technologies Used
 
 This repository contains problem-solving SQL scripts written primarily in:
 
@@ -43,10 +43,10 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 
 ---
 
-## 🎯 My Goals
-- 🏆 Become SQL-proficient for real-world data tasks.
-- 🧠 Master complex query techniques using modern SQL.
-- 📊 Build a strong portfolio through consistency and exploration.
+##  My Goals
+-  Become SQL-proficient for real-world data tasks.
+-  Master complex query techniques using modern SQL.
+-  Build a strong portfolio through consistency and exploration.
 
 ---
 
