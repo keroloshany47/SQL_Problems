@@ -50,7 +50,7 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 
 ---
 
-## 📬 Contact With Me
-- 📧 Email: keroloshany47@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
-- 🗂 [GitHub Portfolio](https://github.com/keroloshany47)
+##  Contact With Me
+-  Email: keroloshany47@gmail.com
+-  [LinkedIn](https://www.linkedin.com/in/kerolos-hani-2519441b6/)
+-  [GitHub Portfolio](https://github.com/keroloshany47)
