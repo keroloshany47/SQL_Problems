@@ -1,1 +1,18 @@
+SELECT DISTINCT CITY 
+FROM STATION 
+WHERE CITY LIKE 'A%' 
+   OR CITY LIKE 'E%' 
+   OR CITY LIKE 'I%' 
+   OR CITY LIKE 'O%' 
+   OR CITY LIKE 'U%';
 
+
+-- Alternative solution using REGEXP (MySQL)
+SELECT DISTINCT CITY
+FROM STATION
+WHERE CITY REGEXP '^[AEIOU]';
+
+-- Alternative solution using LEFT function
+SELECT DISTINCT CITY
+FROM STATION
+WHERE LEFT(CITY, 1) IN ('A', 'E', 'I', 'O', 'U');
