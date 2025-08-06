@@ -1,0 +1,33 @@
+name: Update README with SQL count
+
+on:
+  push:
+    paths:
+      - '**.sql'
+      - '.github/workflows/update-readme.yml'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Count .sql files
+        id: count
+        run: |
+          count=$(find . -type f -name "*.sql" | wc -l)
+          echo "sql_count=$count" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i '/Total Solved:/c\Total Solved: **'"$sql_count"'** problems' README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update SQL problem count"
+          git push
