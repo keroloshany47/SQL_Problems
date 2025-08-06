@@ -49,7 +49,7 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 -  Build a strong portfolio through consistency and exploration.
 
 ---
-## 📊 Solved SQL Problems
+##  Solved SQL Problems
 
 Total Solved: **42** problems
 
