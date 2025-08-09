@@ -7,8 +7,10 @@ This repository is my active workshop for mastering SQL. It contains solutions t
 
 ## Platforms & Tech Stack
 I actively solve problems from:
-- [HackerRank](https://www.hackerrank.com/)
-- [LeetCode](https://leetcode.com/)
+[![HackerRank](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)](https://www.hackerrank.com/)
+
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/)
+
 
 ---
 
