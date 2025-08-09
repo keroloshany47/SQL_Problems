@@ -1,4 +1,4 @@
-*.sql linguist-language=Tsql
+*.sql linguist-language=SQL
 *.md linguist-documentation
 README.md linguist-documentation
 LICENSE linguist-documentation
