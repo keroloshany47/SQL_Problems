@@ -7,7 +7,9 @@ This repository is my active workshop for mastering SQL. It contains solutions t
 
 ## Platforms & Tech Stack
 I actively solve problems from:
-![HackerRank](https://img.shields.io/badge/HackerRank-Competitive%20Programming-green?logo=hackerrank&logoColor=white)  ![LeetCode](https://img.shields.io/badge/LeetCode-Coding%20Challenges-orange?logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-%2300CC55?style=for-the-badge&logo=hackerrank&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+
 
 
 
