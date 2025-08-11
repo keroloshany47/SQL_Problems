@@ -9,9 +9,7 @@ This repository is my active workshop for mastering SQL. It contains solutions t
 I actively solve problems from:
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-%2300CC55?style=plastic&logo=hackerrank&logoColor=white)
-
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=black)
-
 
 ---
 
