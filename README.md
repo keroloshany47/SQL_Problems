@@ -52,7 +52,7 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 ---
 ##  Solved SQL Problems
 
-Total Solved: **89** problems
+Total Solved: **90** problems
 
 ##  Contact With Me
 -  Email: keroloshany47@gmail.com
