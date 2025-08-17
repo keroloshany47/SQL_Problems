@@ -10,6 +10,7 @@ I actively solve problems from:
 
 ![HackerRank](https://img.shields.io/badge/HackerRank-%2300CC55?style=plastic&logo=hackerrank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=black)
+![SQL-Practice](https://img.shields.io/badge/SQL--Practice-%2300599C?style=plastic&logo=databricks&logoColor=white)
 
 ---
 
@@ -38,8 +39,7 @@ This repository contains problem-solving SQL scripts written primarily in:
  ![SQL](https://img.shields.io/badge/SQL-Server-blue?logo=microsoftsqlserver)
  ![MySQL](https://img.shields.io/badge/MySQL-Used-blue?logo=mysql)
 
-
-Each file is tailored based on the platform's dialect ( LeetCode uses MySQL, HackerRank supports both).  
+Each file is tailored based on the platform's dialect (LeetCode uses MySQL, HackerRank supports both, SQL-Practice also uses MySQL).  
 I aim to demonstrate versatility across different SQL engines while maintaining clean and readable query logic.
 
 ---
@@ -52,7 +52,8 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 ---
 ##  Solved SQL Problems
 
- Total Solved: **108** problems
+ Total Solved: **108** problems  
+ (from **LeetCode**, **HackerRank**, and **SQL-Practice.com**)
 
 ##  Contact With Me
 -  Email: keroloshany47@gmail.com
