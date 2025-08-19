@@ -52,7 +52,7 @@ I aim to demonstrate versatility across different SQL engines while maintaining 
 ---
 ##  Solved SQL Problems
 
- Total Solved: **131** problems  
+ Total Solved: **132** problems  
  (from **LeetCode**, **HackerRank**, and **SQL-Practice.com**)
 
 ##  Contact With Me
