@@ -11,7 +11,8 @@ I actively solve problems from:
 ![HackerRank](https://img.shields.io/badge/HackerRank-%2300CC55?style=plastic&logo=hackerrank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=black)
 ![SQL-Practice](https://img.shields.io/badge/SQL--Practice-%2300599C?style=plastic&logo=databricks&logoColor=white)
-![Datalemur](https://img.shields.io/badge/Datalemur-%23336?style=plastic&logo=readthedocs&logoColor=white)
+[![DataLemur](https://i.ibb.co/2hQh7v9/datalemur-badge.png)](https://datalemur.com/)
+[![StrataScratch](https://img.shields.io/badge/StrataScratch-%2300599C?style=plastic&logo=bookstack&logoColor=white)](https://platform.stratascratch.com/coding?code_type=1&curated_topics=15)
 
 
 
