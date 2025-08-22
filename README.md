@@ -46,9 +46,6 @@ This repository contains problem-solving SQL scripts written primarily in:
  ![SQL](https://img.shields.io/badge/SQL-Server-blue?logo=microsoftsqlserver)
  ![MySQL](https://img.shields.io/badge/MySQL-Used-blue?logo=mysql)
 
-Each file is tailored based on the platform's dialect (LeetCode uses MySQL, HackerRank supports both, SQL-Practice also uses MySQL).  
-I aim to demonstrate versatility across different SQL engines while maintaining clean and readable query logic.
-
 ---
 
 ##  My Goals
