@@ -12,7 +12,7 @@ I actively solve problems from:
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=black)
 ![SQL-Practice](https://img.shields.io/badge/SQL--Practice-%2300599C?style=plastic&logo=databricks&logoColor=white)
 ![DataLemur](https://img.shields.io/badge/DataLemur-%23FF3131?style=plastic&logo=readthedocs&logoColor=white)
-![StrataScratch](https://img.shields.io/badge/StrataScratch-%2300B398?style=plastic&logo=database&logoColor=white)
+![StrataScratch](https://img.shields.io/badge/StrataScratch-%2300B398?style=plastic&logo=codeigniter&logoColor=%23333333)
 
 
 
