@@ -11,7 +11,7 @@ I actively solve problems from:
 ![HackerRank](https://img.shields.io/badge/HackerRank-%2300CC55?style=plastic&logo=hackerrank&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116?style=plastic&logo=leetcode&logoColor=black)
 ![SQL-Practice](https://img.shields.io/badge/SQL--Practice-%2300599C?style=plastic&logo=databricks&logoColor=white)
-<img src="https://datalemur.com/favicon.ico" alt="DataLemur Logo" width="25"/> [**DataLemur**](https://datalemur.com/)
+![DataLemur](https://i.ibb.co/2hQh7v9/datalemur-badge.png)
 
 
 
