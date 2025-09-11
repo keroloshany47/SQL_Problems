@@ -4,8 +4,8 @@ SELECT
         / COUNT(*), 
         1
     ) AS international_calls_pct
-FROM phone_calls pc
-JOIN phone_info c1 
-    ON pc.caller_id = c1.caller_id
-JOIN phone_info c2 
-    ON pc.receiver_id = c2.caller_id;
+FROM phone_calls AS c
+JOIN phone_info AS cc 
+    ON c.caller_id = cc.caller_id
+JOIN phone_info AS cv 
+    ON c.receiver_id = cv.caller_id;
