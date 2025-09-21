@@ -56,7 +56,7 @@ This repository contains problem-solving SQL scripts written primarily in:
 ---
 ##  Solved SQL Problems
 
- Total Solved: **205** problems  
+ Total Solved: **206** problems  
  (from **LeetCode** , **HackerRank** , **DataLemur** , and **SQL-Practice**)
 
 ##  Contact With Me
